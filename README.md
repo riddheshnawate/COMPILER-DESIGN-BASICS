@@ -52,4 +52,5 @@ The symbol table is an important data structure used by the compiler to store in
 ---
 
 ## OUTPUT
-
+<img width="1653" height="487" alt="Image" src="https://github.com/user-attachments/assets/585e3818-5178-4edf-a3ec-95742a36821a" />
+<img width="1651" height="406" alt="Image" src="https://github.com/user-attachments/assets/6d9f2394-8102-4614-bd45-e8b47a86250d" />
